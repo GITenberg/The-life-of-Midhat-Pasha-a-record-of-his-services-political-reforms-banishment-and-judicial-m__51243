@@ -1,0 +1,32 @@
+_repo: The-life-of-Midhat-Pasha-a-record-of-his-services-political-reforms-banishment-and-judicial-m__51243
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ali Haydar Mithat
+    aliases:
+    - Haydar Mithat, Ali
+    - Ali Haydar Midhat Bey
+    - Midhat, Ali Haydar
+    - Mithat, Ali Haydar
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '46323'
+    url: http://www.gutenberg.org/2009/agents/46323
+description: 'Translation of: Mithat Paşanin hayat-i siyasiyesi, hidematı, şehadeti'
+gutenberg_issued: '2016-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51243'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DR'
+- !lcsh 'Statesmen -- Turkey -- Biography'
+- !lcsh 'Midhat Paşa, 1822-1884'
+- !lcsh 'Turkey -- History -- 19th century'
+- GITenberg
+title: The life of Midhat Pasha; a record of his services, political reforms, banishment,
+  and judicial murder
+url: http://www.gutenberg.org/ebooks/51243
