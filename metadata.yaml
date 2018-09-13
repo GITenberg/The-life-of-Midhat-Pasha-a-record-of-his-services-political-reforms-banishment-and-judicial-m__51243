@@ -1,5 +1,8 @@
 _repo: The-life-of-Midhat-Pasha-a-record-of-his-services-political-reforms-banishment-and-judicial-m__51243
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51243-h/images/cover.jpg
 creator:
   author:
     agent_name: Ali Haydar Mithat
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '46323'
     url: http://www.gutenberg.org/2009/agents/46323
 description: 'Translation of: Mithat Paşanin hayat-i siyasiyesi, hidematı, şehadeti'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51243#The-life-of-Midhat-Pasha-a-record-of-his-services-political-reforms-banishment-and-judicial-m_
 gutenberg_issued: '2016-02-17'
 gutenberg_type: Text
 identifiers:
